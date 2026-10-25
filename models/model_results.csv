@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2
+Baseline,3.646,4.55,-0.01
+Random Forest,3.002,3.769,0.307
+Extra Trees,3.5,4.486,0.019
